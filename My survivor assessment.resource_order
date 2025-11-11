@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings": [
+    {"name":"joystick","order":1,"path":"folders/Objects/joystick.yy",},
+    {"name":"Maincharacter","order":2,"path":"folders/Objects/Maincharacter.yy",},
+    {"name":"weapons","order":3,"path":"folders/Objects/weapons.yy",},
+    {"name":"controllers","order":4,"path":"folders/Objects/controllers.yy",},
+    {"name":"MenuObjects","order":5,"path":"folders/Objects/MenuObjects.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_main_menu","order":2,"path":"objects/obj_main_menu/obj_main_menu.yy",},
+    {"name":"obj_sniper","order":1,"path":"objects/obj_sniper/obj_sniper.yy",},
+    {"name":"obj_parent_player","order":2,"path":"objects/obj_parent_player/obj_parent_player.yy",},
+    {"name":"obj_parent_bullet","order":2,"path":"objects/obj_parent_bullet/obj_parent_bullet.yy",},
+    {"name":"rm_title","order":1,"path":"rooms/rm_title/rm_title.yy",},
+    {"name":"obj_shotgun_pellet","order":1,"path":"objects/obj_shotgun_pellet/obj_shotgun_pellet.yy",},
+  ],
+}
